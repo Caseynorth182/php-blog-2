@@ -1,0 +1,16 @@
+{
+    "name": "user/php-blog",
+    "description": "Blog on PHP & MySQL",
+    "type": "project",
+    "authors": [
+        {
+            "name": "CaseyNorth",
+            "email": "Caseynorth182@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
